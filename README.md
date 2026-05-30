@@ -71,8 +71,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=filipecml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecml&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipecml&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipecml&theme=tokyonight" height="155em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filipecml&theme=tokyonight" height="155em"/>
 </div>
 
 <br/>
@@ -85,15 +89,18 @@
 
 ## 🚀 Projeto em Destaque
 
-<a href="https://github.com/filipecml/pedagogest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipecml&repo=pedagogest&theme=tokyonight" />
-</a>
+### 🏫 [PedagoGest](https://github.com/filipecml/pedagogest) — Sistema de Gestão Pedagógica
 
-<br/><br/>
+> Plataforma Full Stack para digitalizar e automatizar a gestão de espaços pedagógicos especializados no atendimento a crianças atípicas (TEA, TDAH, TOD). Idealizado a partir de uma demanda real de negócio, com funcionalidades de cadastro de alunos, PDI, relatórios pedagógicos, controle financeiro, agenda e notificações via WhatsApp.
 
-> 🏫 **PedagoGest** — Sistema Full Stack para digitalizar e automatizar a gestão de espaços pedagógicos especializados no atendimento a crianças atípicas (TEA, TDAH, TOD). Idealizado a partir de uma demanda real de negócio.
->
-> **Stack:** Java · Spring Boot · React · TypeScript · Kafka · Redis · PostgreSQL · JHipster 8 · Liquibase
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JHipster](https://img.shields.io/badge/JHipster-0098FF?style=flat-square&logo=jhipster&logoColor=white)
 
 ---
 
